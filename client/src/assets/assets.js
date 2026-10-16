@@ -201,7 +201,7 @@ export const dummyMyBookingsData = [
         "returnDate": "2025-06-12T00:00:00.000Z",
         "status": "pending",
         "price": 130,
-        "createdAt": "2025-06-10T12:57:25.613Z",
+        "createdAt": "2025-06-15T12:57:25.613Z",
     },
     {
         "_id": "684800fa0fb481c5cfd92e56",
@@ -212,7 +212,7 @@ export const dummyMyBookingsData = [
         "returnDate": "2025-06-12T00:00:00.000Z",
         "status": "pending",
         "price": 600,
-        "createdAt": "2025-06-10T09:55:06.379Z",
+        "createdAt": "2025-06-18T09:55:06.379Z",
     },
     {
         "_id": "6847fe790fb481c5cfd92d94",
@@ -223,7 +223,7 @@ export const dummyMyBookingsData = [
         "returnDate": "2025-06-12T00:00:00.000Z",
         "status": "confirmed",
         "price": 440,
-        "createdAt": "2025-06-10T09:44:25.410Z",
+        "createdAt": "2025-06-20T09:44:25.410Z",
     }
 ]
 
